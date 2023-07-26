@@ -5,7 +5,7 @@ Here is a list, in no particular order, of the projects I made or participated i
 
 | Project	 | Languages  |  Description | 
 |---|---|---|
-| 💻 SOFTWARE	| | |
+| 💻 SOFTWARE	| 
 | lesmarostin-server | TypeScript (NestJs) | Management platform for an association responsible for training 250 football players (Les MaRosTin.Bel). |
 | lesmarostin-client | TypeScript (Angular) | The client side of the previous project. |
 | scanage-app | Kotlin | Application for the University of Namur. Allows you to check the validity of a student card. |
