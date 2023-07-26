@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍🦱 About Me:
 Passionate about new technologies, computers and discovering new experiences. My training in Computer Science makes me able to understand and analyse the needs of companies in terms of computer applications, and especially to design, test and maintain programs corresponding to these needs, including applications using new technologies (Web, mobile, Cloud, Big Data, artificial intelligence...).
 
 Here is a list, in no particular order, of the projects I made or participated in:
