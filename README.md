@@ -5,8 +5,18 @@ Here is a list, in no particular order, of the projects I made or participated i
 
 | Project	 | Languages  |  Description | 
 |---|---|---|
-|  boursiere-server | Go (Gin)  | A management software for a student party of the Unamur Computer Science Student Association where sold beers are subject to the law of supply and demand in real time.  | 
-boursiere-server	Go (Gin)	A management software for a student party of the Unamur Computer Science Student Association where sold beers are subject to the law of supply and demand in real time.
+| SOFTWARE	| 💻 | |
+| lesmarostin-server | TypeScript (NestJs) | Management platform for an association responsible for training 250 football players (Les MaRosTin.Bel). |
+| lesmarostin-client | TypeScript (Angular) | The client side of the previous project. |
+| scanage-app | Kotlin | Application for the University of Namur. Allows you to check the validity of a student card. |
+| boursiere-server | Go (Gin) | A management software for a student party of the Unamur Computer Science Student Association where sold beers are subject to the law of supply and demand in real time.| 
+| book-inventory | TypeScript (Angular) | Application for the computer science faculty in Namur. Inventory of all the faculty's books, with teachers entering whether or not they want to keep a book. |
+| smart-balance | TypeScript (Angular) | IT Unamur Computer Science Student Association management programme. Integration with a Django API and several RasberyPi & Arduino devices. |
+| COURSES	| 📚 | |
+| findABike-server | JavaScript (Node.js) | Integrated project. Application using the city of Namur's opendata to view available bike spaces and hire a shared bike. |
+| findABike-app | Kotlin | Integrated project. The Android application for the Find A Bike project |
+| findABike-client | JavaScript (React) | Integrated project. Find A Bike project data management web client |
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antoine_papy_baetsle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoinebaetsle) 
