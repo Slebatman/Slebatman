@@ -14,8 +14,13 @@ Here is a list, in no particular order, of the projects I made or participated i
 | smart-balance | TypeScript (Angular) | IT Unamur Computer Science Student Association management programme. Integration with a Django API and several RasberyPi & Arduino devices. |
 | COURSES	| 📚 | |
 | findABike-server | JavaScript (Node.js) | Integrated project. Application using the city of Namur's opendata to view available bike spaces and hire a shared bike. |
-| findABike-app | Kotlin | Integrated project. The Android application for the Find A Bike project |
-| findABike-client | JavaScript (React) | Integrated project. Find A Bike project data management web client |
+| findABike-app | Kotlin | Integrated project. The Android application for the Find A Bike project. |
+| findABike-client | JavaScript (React) | Integrated project. Find A Bike project data management web client. |
+| pseudo-random-generator | Python | Code for generating a sequence of pseudo-random numbers from input values and checking whether this sequence is acceptable for the race test. |
+| lesMaRosTinBel-webshop | Java (Spring) | Prototype online shop for my football club. Possibility of paying with PayPal directly from the shop. |
+| INTERNSHIP | 👨‍💼 | |
+| unamur-mobility-app | Typescript (Angular) | Application to manage parking and mobility on the UNamur campus. Application can be installed on a mobile phone and can work offline. |
+| unamur-mobility-server | Typescript (NestJS) | The backend providing diverts route API for the previous project. Interaction from the project to an Oracle 10 database. |
 
 
 ## 🌐 Socials:
