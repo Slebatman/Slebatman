@@ -9,6 +9,7 @@ Here is a list, in no particular order, of the projects I made or participated i
 | lesmarostin-server | TypeScript (NestJs) | Management platform for an association responsible for training 250 football players (Les MaRosTin.Bel). |
 | lesmarostin-client | TypeScript (Angular) | The client side of the previous project. |
 | scanage-app | Kotlin | Application for the University of Namur. Allows you to check the validity of a student card. |
+| limitless-game 🎮 | Python & Pygame | Developed as part of the CSLab hackaton. Educational game for primary school teachers to introduce disability in the classroom (hackaton theme). |
 | boursiere-server | Go (Gin) | A management software for a student party of the Unamur Computer Science Student Association where sold beers are subject to the law of supply and demand in real time.| 
 | book-inventory | TypeScript (Angular) | Application for the computer science faculty in Namur. Inventory of all the faculty's books, with teachers entering whether or not they want to keep a book. |
 | smart-balance | TypeScript (Angular) | IT Unamur Computer Science Student Association management programme. Integration with a Django API and several RasberyPi & Arduino devices. |
