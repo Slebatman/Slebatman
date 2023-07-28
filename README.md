@@ -3,25 +3,25 @@ Passionate about new technologies, computers and discovering new experiences. My
 
 Here is a list, in no particular order, of the projects I made or participated in:
 
-| Project	 | Languages  |  Description | 
-|---|---|---|
+| Project	 | Languages  | Type | Description | 
+|---|---|---| ---|
 | 💻 SOFTWARE	| 
-| lesmarostin-server | TypeScript (NestJs) | Management platform for an association responsible for training 250 football players (Les MaRosTin.Bel). |
-| lesmarostin-client | TypeScript (Angular) | The client side of the previous project. |
-| scanage-app | Kotlin | Application for the University of Namur. Allows you to check the validity of a student card. |
-| [limitless-game 🎮](https://github.com/Slebatman/Limitless-land) | Python & Pygame | Developed as part of the CSLab hackaton. Educational game for primary school teachers to introduce disability in the classroom (hackaton theme). |
-| [boursiere-server](https://github.com/e-kot-unamur/boursiere-server) | Go (Gin) | A management software for a student party of the Unamur Computer Science Student Association where sold beers are subject to the law of supply and demand in real time.| 
-| book-inventory | TypeScript (Angular) | Application for the computer science faculty in Namur. Inventory of all the faculty's books, with teachers entering whether or not they want to keep a book. |
-| smart-balance | TypeScript (Angular) | IT Unamur Computer Science Student Association management programme. Integration with a Django API and several RasberyPi & Arduino devices. |
+| lesmarostin-server | TypeScript (NestJs) | Les MaRosTin.Bel in-house project | Management platform for an association responsible for training 250 football players (Les MaRosTin.Bel). |
+| lesmarostin-client | TypeScript (Angular) | Les MaRosTin.Bel in-house project | The client side of the previous project. |
+| scanage-app | Kotlin | UNamur in-house project | Application for the University of Namur. Allows you to check the validity of a student card. |
+| [limitless-game 🎮](https://github.com/Slebatman/Limitless-land) | Python & Pygame | Open-source | Developed as part of the CSLab hackaton. Educational game for primary school teachers to introduce disability in the classroom (hackaton theme). |
+| [boursiere-server](https://github.com/e-kot-unamur/boursiere-server) | Go (Gin) | Open-source | A management software for a student party of the Unamur Computer Science Student Association where sold beers are subject to the law of supply and demand in real time.| 
+| book-inventory | TypeScript (Angular) | UNamur in-house project | Application for the computer science faculty in Namur. Inventory of all the faculty's books, with teachers entering whether or not they want to keep a book. |
+| smart-balance | TypeScript (Angular) | Not yet open-source | IT Unamur Computer Science Student Association management programme. Integration with a Django API and several RasberyPi & Arduino devices. |
 | 📚 COURSES	| | |
-| findABike-server | JavaScript (Node.js) | Integrated project. Application using the city of Namur's opendata to view available bike spaces and hire a shared bike. |
-| findABike-app | Kotlin | Integrated project. The Android application for the Find A Bike project. |
-| findABike-client | JavaScript (React) | Integrated project. Find A Bike project data management web client. |
-| pseudo-random-generator | Python | Code for generating a sequence of pseudo-random numbers from input values and checking whether this sequence is acceptable for the race test. |
-| lesMaRosTinBel-webshop | Java (Spring) | Prototype online shop for my football club. Possibility of paying with PayPal directly from the shop. |
+| findABike-server | JavaScript (Node.js) | / | Integrated project. Application using the city of Namur's opendata to view available bike spaces and hire a shared bike. |
+| findABike-app | Kotlin | / | Integrated project. The Android application for the Find A Bike project. |
+| findABike-client | JavaScript (React) | / |  Integrated project. Find A Bike project data management web client. |
+| pseudo-random-generator | Python | / | Code for generating a sequence of pseudo-random numbers from input values and checking whether this sequence is acceptable for the race test. |
+| lesMaRosTinBel-webshop | Java (Spring) | / | Prototype online shop for my football club. Possibility of paying with PayPal directly from the shop. |
 | 👨‍💼 INTERNSHIP | | |
-| unamur-mobility-app | Typescript (Angular) | Application to manage parking and mobility on the UNamur campus. Application can be installed on a mobile phone and can work offline. |
-| unamur-mobility-server | Typescript (NestJS) | The backend providing diverts route API for the previous project. Interaction from the project to an Oracle 10 database. |
+| unamur-mobility-app | Typescript (Angular) | UNamur in-house project | Application to manage parking and mobility on the UNamur campus. Application can be installed on a mobile phone and can work offline. |
+| unamur-mobility-server | Typescript (NestJS) | UNamur in-house project | The backend providing diverts route API for the previous project. Interaction from the project to an Oracle 10 database. |
 
 
 ## 🌐 Socials:
